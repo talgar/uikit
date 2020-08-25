@@ -29,7 +29,7 @@
                                         <rect key="frame" x="80" y="0.0" width="74" height="30"/>
                                         <state key="normal" title="ActionShip"/>
                                         <connections>
-                                            <action selector="showActionShip" destination="BYZ-38-t0r" eventType="touchUpInside" id="5Kd-be-MOL"/>
+                                            <action selector="showActionSheet" destination="BYZ-38-t0r" eventType="touchUpInside" id="5Kd-be-MOL"/>
                                         </connections>
                                     </button>
                                 </subviews>

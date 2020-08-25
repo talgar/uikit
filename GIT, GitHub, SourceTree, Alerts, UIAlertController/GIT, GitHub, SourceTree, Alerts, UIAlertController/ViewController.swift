@@ -29,7 +29,22 @@ class ViewController: UIViewController {
     }
     
     
-    @IBAction func showActionShip() {
+    @IBAction func showActionSheet() {
+        
+        let alert = UIAlertController(title: nil, message: "Choose Film", preferredStyle: .actionSheet)
+        
+        
+        
+        let film1 = UIAlertAction(title: "Spider man", style: .default, handler: nil)
+        let film2 = UIAlertAction(title: "Alladin", style: .default, handler: nil)
+        let cancelAction =  UIAlertAction(title: "Cancel", style: .cancel, handler: nil)
+        
+       
+        alert.addAction(film1)
+        alert.addAction(film2)
+        alert.addAction(cancelAction)
+        present(alert, animated: true, completion: nil)
+
     }
     
     
