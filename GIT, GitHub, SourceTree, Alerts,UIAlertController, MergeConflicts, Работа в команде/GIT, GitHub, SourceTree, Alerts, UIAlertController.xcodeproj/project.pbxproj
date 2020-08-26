@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 84F41FB324F519A7004BE82B /* Build configuration list for PBXProject "GIT, GitHub, SourceTree, Alerts, UIAlertController" */;
+			buildConfigurationList = 84F41FB324F519A7004BE82B /* Build configuration list for PBXProject "GIT, GitHub, SourceTree, Alerts, UIAlertController, MergeConflicts, Работа в команде" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -317,7 +317,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		84F41FB324F519A7004BE82B /* Build configuration list for PBXProject "GIT, GitHub, SourceTree, Alerts, UIAlertController" */ = {
+		84F41FB324F519A7004BE82B /* Build configuration list for PBXProject "GIT, GitHub, SourceTree, Alerts, UIAlertController, MergeConflicts, Работа в команде" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				84F41FCA24F519A8004BE82B /* Debug */,
